@@ -1,5 +1,5 @@
 # DeviceVersion
-获取iphone 机器类型（iphone 5s, iphone se, iPad pro）
+获取iphone 机器类型（iphone 5s, iphone se, iPad pro
 
 
 public enum DeviceName :String{
@@ -14,7 +14,6 @@ public enum DeviceName :String{
     case iPhone6Plus
     case iPhone6SPlus
     case Simulator
-    
     case iPad1
     case iPad2
     case iPadMini
@@ -27,7 +26,6 @@ public enum DeviceName :String{
     case iPadAir2
     case iPadPro12Inch
     case iPadPro9Inch
-    
     case unkown
 }
 
